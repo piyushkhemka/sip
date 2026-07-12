@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "sip-marketplace",
+  "owner": {
+    "name": "Piyush Khemka",
+    "email": "piyushkhemka123@gmail.com"
+  },
+  "metadata": {
+    "description": "Sip 💧 — a fun Claude Code status line showing how much water talking to Claude costs, plus cost, 5h/weekly usage (mirrors /usage), context, model & effort, and turn count. All local, all free."
+  },
+  "plugins": [
+    {
+      "name": "sip",
+      "source": "./",
+      "description": "Every prompt takes a sip 💧 — a fun Claude Code status line showing how much water talking to Claude costs, plus cost, 5h/weekly usage (mirrors /usage), context, model & effort, and turn count. All local, all free."
+    }
+  ]
+}

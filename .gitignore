@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor/OS cruft
+*.swp
+*~
+
+# Local runtime state / backups (never part of the plugin)
+daily.json
+settings.json.bak.*
+settings.json.tmp.*

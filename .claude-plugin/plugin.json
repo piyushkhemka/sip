@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sip",
+  "version": "0.3.3",
+  "description": "Every prompt takes a sip 💧 — a fun Claude Code status line showing how much water talking to Claude costs, plus cost, 5h/weekly usage (mirrors /usage), context, model & effort, and turn count. All local, all free.",
+  "author": {
+    "name": "Piyush Khemka",
+    "email": "piyushkhemka123@gmail.com"
+  },
+  "keywords": [
+    "status-line",
+    "cost",
+    "context",
+    "water",
+    "sustainability",
+    "productivity"
+  ],
+  "license": "MIT"
+}
